@@ -1,2 +1,1 @@
 # manobankas
-bank frontend

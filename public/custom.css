@@ -1,0 +1,19 @@
+html {
+
+    height: 100%;
+}
+
+.container {
+    width: 100%;
+}
+
+.login-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 100%;
+}
+
+.login-page .container {
+    max-width: 640px;
+}
